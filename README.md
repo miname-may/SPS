@@ -1,17 +1,13 @@
 # Seven Princess Shop
-
-이찬호
-Backend 개발, 전체적인 Frontend 개발  
-정혜인
-MyPage, 장바구니, 회원가입, 로그인  
-임명훈
-index, showCategory 등 제품 이미지 페이지  
-신동호
-제품 결제 페이지, 주소 API, 문자 API  
-최가슬
-관리자 페이지, 이메일 API, 그래프(차트) API  
-최유정
-productInfo 등 제품 상세 정보, 관리자 모드 디버깅, DB 설계  
+**: 개발 기간**  
+2020년 5월 3일~2020년 5월 27일  
+**역할 분담**  
+이찬호 Backend 개발, 전체적인 Frontend 개발  
+정혜인 MyPage, 장바구니, 회원가입, 로그인  
+임명훈 index, showCategory 등 제품 이미지 페이지  
+신동호 제품 결제 페이지, 주소 API, 문자 API  
+최가슬 관리자 페이지, 이메일 API, 그래프(차트) API  
+최유정 productInfo 등 제품 상세 정보, 관리자 모드 디버깅, DB 설계  
 
 <img src="https://user-images.githubusercontent.com/60992451/83938409-e0a2de00-a80e-11ea-88cd-65c55a0ec5fd.png" width="100%"/>
 <img src="https://user-images.githubusercontent.com/60992451/83994746-53889200-a992-11ea-9a02-7fc32e7b42ec.jpg" width="100%"/>
