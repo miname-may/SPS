@@ -1,7 +1,8 @@
 # Seven Princess Shop
 **: 개발 기간**  
 2020년 5월 3일~2020년 5월 27일  
-**역할 분담**  
+  
+** 역할 분담**  
 이찬호 Backend 개발, 전체적인 Frontend 개발  
 정혜인 MyPage, 장바구니, 회원가입, 로그인  
 임명훈 index, showCategory 등 제품 이미지 페이지  
